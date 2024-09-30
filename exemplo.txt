@@ -1,1 +1,2 @@
 mensagem
+Adicionando uma nova funcionalidade
